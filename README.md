@@ -1,9 +1,6 @@
-#First
+## First
 #changes in readme md 
 #123321
-
-## middle 
-	*italic text  pom*
 
 ## Список с точками 
 +  1st elem
